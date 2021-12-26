@@ -2,7 +2,7 @@
   "name": "react-task-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://schlingling.github.io/react-task-tracker",
+  "homepage": "https://schlingling.github.io/react-task-tracker/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
